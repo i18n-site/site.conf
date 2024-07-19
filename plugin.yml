@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=../.schema/plugin.yml
+
+npm: |-
+  @8p/full
+  @8p/lang
