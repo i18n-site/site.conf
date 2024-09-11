@@ -1,0 +1,22 @@
+{
+  "name": "@i18n/i18n",
+  "version": "0.1.0",
+  "description": "i18n.site i18n files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/site.git"
+  },
+  "homepage": "https://atomgit.com/i18n/site/tree/dev",
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    "./*": "./*"
+  },
+  "files": [
+    "*"
+  ],
+  "keywords": [
+    "i18n.site"
+  ],
+  "type": "module"
+}

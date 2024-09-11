@@ -1,0 +1,20 @@
+{
+  "name": "@i18n/site",
+  "version": "0.1.0",
+  "description": "i18n.site self",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/site.git"
+  },
+  "homepage": "https://atomgit.com/i18n/site/tree/dev",
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "exports": {
+    "./*": "./*"
+  },
+  "files": [
+    "*"
+  ],
+  "keywords": [],
+  "type": "module"
+}
