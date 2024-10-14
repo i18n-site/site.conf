@@ -1,0 +1,25 @@
+{
+  "name": "@i18n/site",
+  "version": "0.1.0",
+  "description": "i18n.site website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/site.git"
+  },
+  "homepage": "https://atomgit.com/i18n/site/tree/dev",
+  "author": "i18n.site@gmail.com",
+  "license": "MulanPSL-2.0",
+  "peerDependencies": {
+    "@8p/page-blog": "^0.3.72",
+    "@8p/page-doc": "^0.3.69",
+    "@8p/page-md": "^0.3.6",
+    "@8p/page-toc": "^0.3.22",
+    "@8p/full": "^0.3.8",
+    "@8p/lang": "^0.3.52",
+    "@8p/qy": "^0.1.24"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {}
+}
